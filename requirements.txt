@@ -1,0 +1,7 @@
+equinox
+h5py
+jax
+numpy
+optax
+rdkit
+tqdm
